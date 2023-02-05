@@ -1,6 +1,4 @@
-# Git Practice
-
-Until further notice, think twice before using Google to download software [https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software/]
+# [Until further notice, think twice before using Google to download software] (https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software/)
 
 I find this article interesting and quite important because this month i have seen multiple different issues with ads being used maliciously. Some cases were featured in in-game ads, the ones that
 pop up automatically, and the malicious use there was that ads were messed with to show 3-5 ads in a row instead of just 1. In case of this article, it talks about ad links that are always first
