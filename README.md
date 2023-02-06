@@ -11,6 +11,7 @@ to prevent this is to ignore the first couple recommnedations, which are ads, an
 gogle search on an iPhone. Since Google is used every day at such a grand scale, it has to ensure that users are top under risk of their information being stolen or installing malicious software 
 when they are using it.
 
-
+## Anh's Thoughts:
+As a daily Google search user, I find this very interesting too! To me, I think it is interesting because I never quite noticed the dangers of ads on Google search results. I usually avoid the ads just knowing that they paid Google to place their links on top of other "legit" results first, but sometimes, I unintentionally click the ad links when I'm unaware of the small "ad" logo. I didn't think it could be dangerous but now with the insight from this article (how these links could lead to other links of malicious software), I will definitely be more careful. Thank you for bringing awareness to this article!  
 
 
